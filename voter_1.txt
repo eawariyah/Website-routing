@@ -1,0 +1,1 @@
+{"name": "Edwin Awariyah", "age": 20, "major": "Computer Engineering", "class year group": "2024", "id": 1}
